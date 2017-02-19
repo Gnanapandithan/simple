@@ -11,6 +11,9 @@ public class SimpleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		for( int i=0;i<100;i++) {
+			System.out.println("WWWWWWWWWw");
+		}
 	}
 
 }
