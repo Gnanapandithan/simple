@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SimpleApplicationTests {
 
-	@Test
+	//@Test
 	public void contextLoads() {
 		for( int i=0;i<100;i++) {
 			System.out.println("WWWWWWWWWw");
