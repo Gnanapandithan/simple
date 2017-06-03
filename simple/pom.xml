@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<packaging>jar</packaging>
 
 	<name>simple</name>
@@ -12,7 +12,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/Gnanapandithan/simple.git</connection>
-	  <tag>HEAD</tag>
+	  <tag>demo-0.0.5</tag>
   </scm>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
