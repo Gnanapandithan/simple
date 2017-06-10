@@ -47,7 +47,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 
-			<plugin>
+<!-- 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.5.2</version>
@@ -55,7 +55,7 @@
 					<goals>deploy -Dmaven.test.skip=true</goals>
 				</configuration>
 			</plugin>
-		</plugins>
+ -->		</plugins>
 	</build>
 
 	<distributionManagement>
